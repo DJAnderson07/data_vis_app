@@ -1,0 +1,13 @@
+base
+ggplot2
+knitr
+hexbin
+SparseM
+quantreg
+tidyverse
+tibble
+tidyr
+readr
+purrr
+dplyr
+broom
